@@ -4,6 +4,9 @@
 
 Text editor is a full stack web application that allows you to add text into the command line and it be saved in to the database. Once you close and reopen the app your input will be displayed again. Youre also able to down load this application to you device and use it offline.
 
+## Deployed Application
+https://justtexteditor.herokuapp.com/
+
 ## Usage
 
 To invoke this application you will run 'npm install' and 'npm run start'
